@@ -160,7 +160,7 @@ model.add(Activation('softmax'))
 
 - Experiment - V:
     - Dropouts after conv layer, L2 in FC, use BN after convolutional layer
-        - Accuracy:  0.5636160969734192
+        - Accuracy:  0.56 36160969734192
         - Validation Accuracy:  0.5391498804092407
         - Loss:  1.9516723155975342
         - Validation Loss 2.279395341873169
