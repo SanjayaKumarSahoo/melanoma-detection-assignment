@@ -72,11 +72,11 @@ The data set contains the following diseases:
     - training accuracy - 55%,
     - validation accuracy - 49.5%
     - epochs - 20
-- With **augmentation** the model performs training and validation accuracy as 47%, 44% respectively with 20 epochs.
+- With **augmentation** the model performs
     - training accuracy - 47%,
     - validation accuracy - 44%
     - epochs - 20
-- With **augmentation strategy**, **class re-balance** and **batch normalization** the models performs
+- With **augmentation**, **class re-balance** and **batch normalization** the models performs
     - training accuracy - 84%,
     - validation accuracy - 79%
     - epochs - 30
