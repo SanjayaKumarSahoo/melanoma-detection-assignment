@@ -1,12 +1,14 @@
 # Melanoma Detection Assignment
 
+- This assignment is to build a CNN based model to detect melanoma.
+
 ## Table of Contents
 
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Architecture](#architecture)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -81,17 +83,9 @@ The data set contains the following diseases:
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Acknowledgements
-
-Give credit here.
-
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 ## Contact
 
-Created by [@githubusername] - feel free to contact me!
+Created by [@sanjayakumarsahoo] - feel free to contact me!
 
 
 <!-- Optional -->
